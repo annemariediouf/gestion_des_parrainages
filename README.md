@@ -26,4 +26,12 @@ Le projet se divise en plusieurs phases clés :
        .Interface web dédiée aux candidats pour suivre quotidiennement l'évolution de leurs parrainages, avec accès sécurisé via code d'authentification.
 
 Voici la liste des differentes fonctionnalites a implementer.
+
+*INSTALLATION*
+Clonez ce dépôt de projet sur votre machine locale avec la commande suivante :
+git clone https://github.com/VotreUtilisateur/gestion_des_parrainages.git
+
+*AUTRICES*
+.annemariediouf
+
        
