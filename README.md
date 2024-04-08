@@ -28,10 +28,14 @@ Le projet se divise en plusieurs phases clés :
 Voici la liste des differentes fonctionnalites a implementer.
 
 *INSTALLATION*
+
 Clonez ce dépôt de projet sur votre machine locale avec la commande suivante :
-git clone https://github.com/VotreUtilisateur/gestion_des_parrainages.git
+
+git clone https://github.com/annemariediouf/gestion_des_parrainages.git
 
 *AUTRICES*
+
 .annemariediouf
+.awalo25
 
        
