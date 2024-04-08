@@ -1,3 +1,4 @@
+
 Projet : Gestion des Parrainages de Candidature d'Élections Présidentielles pour le Sénégal
 
 Dans le cadre de la modernisation des procédures administratives relatives aux élections au Sénégal, ce projet vise à numériser le processus de gestion des parrainages, une étape cruciale et fastidieuse. Actuellement réalisée à l'aide de formulaires physiques, la gestion des parrainages sera désormais effectuée de manière électronique, facilitant ainsi le processus pour toutes les parties impliquées.
